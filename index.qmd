@@ -1,7 +1,35 @@
 ---
-title: "Kiely Hine | GIS Portfolio"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Kiely Hine
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*Geospatial Analysis · Hydrology · Environmental Data Workflows*
+
+I am a geospatial analyst with a background in geoscience, focused on applying GIS and data-driven methods to understand environmental systems. My work emphasizes building reproducible geospatial workflows, integrating environmental datasets, and translating complex patterns into clear spatial insight.
+
+---
+
+## Featured Project
+
+### Temporal Analysis of Flood Timing and Seasonality
+
+A geospatial and statistical workflow developed to evaluate long-term changes in flood timing and seasonal behavior across Mid-Atlantic watersheds.
+
+[Explore the project](projects.qmd)
+
+---
+
+## Core Skills
+
+- Geospatial data integration and analysis  
+- Environmental data pipelines  
+- Spatial-temporal analysis  
+- Hydrologic and watershed-based analysis  
+- Map design and technical communication  
+
+---
+
+## Tools & Technologies
+
+ArcGIS Pro · R · Spatial Analysis · Environmental Data · GitHub · Quarto
