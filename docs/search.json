@@ -46,35 +46,35 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I have a background in geoscience and history, with a focus on geospatial analysis, hydrology, and environmental data.\nI earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. My academic background reflects a combination of scientific analysis and broader contextual understanding of environmental systems.\nMy work centers on using GIS and data-driven methods to explore how environmental processes vary across space and time, particularly in relation to streamflow, flood behavior, and watershed dynamics."
+    "text": "My background combines geoscience, geography, and environmental analysis, with a focus on GIS, hydrology, and spatial data workflows.\nI earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. That combination shaped how I approach environmental questions: with both technical rigor and an interest in the broader spatial and regional context behind them.\nMy work centers on using GIS and data-driven methods to examine how environmental systems vary across space and time, especially in relation to streamflow, flood behavior, and watershed dynamics."
   },
   {
-    "objectID": "about.html#my-approach",
-    "href": "about.html#my-approach",
+    "objectID": "about.html#how-i-approach-gis",
+    "href": "about.html#how-i-approach-gis",
     "title": "About",
-    "section": "My Approach",
-    "text": "My Approach\nI approach GIS as more than mapping. I focus on building complete geospatial workflows that integrate data, analysis, and communication.\nThis includes: - organizing and integrating environmental datasets\n- developing reproducible spatial workflows\n- analyzing patterns across multiple spatial scales\n- translating complex results into clear visual outputs"
+    "section": "How I Approach GIS",
+    "text": "How I Approach GIS\nI think of GIS as more than map production. For me, it is a way to organize environmental data, connect spatial and temporal patterns, and communicate results clearly.\nThat usually means:\n\norganizing and integrating environmental datasets\n\nbuilding reproducible spatial workflows\n\nanalyzing patterns across multiple spatial scales\n\ntranslating technical outputs into clear visuals and applied interpretation"
   },
   {
-    "objectID": "about.html#technical-experience",
-    "href": "about.html#technical-experience",
+    "objectID": "about.html#technical-background",
+    "href": "about.html#technical-background",
     "title": "About",
-    "section": "Technical Experience",
-    "text": "Technical Experience\n\nGIS & Mapping: ArcGIS Pro, ArcGIS Online, QGIS\n\nData Analysis: R (sf, tidyverse), spatial and statistical analysis\n\nData Sources: USGS streamflow data, climate datasets, watershed boundaries\n\nOther Tools: GitHub, Quarto"
+    "section": "Technical Background",
+    "text": "Technical Background\n\nGIS & Mapping: ArcGIS Pro, ArcGIS Online, QGIS\n\nAnalysis & Programming: R, spatial analysis, statistical analysis, environmental data workflows\n\nCommon Data Sources: USGS streamflow records, climate datasets, watershed boundaries\n\nOther Tools: GitHub, Quarto"
   },
   {
     "objectID": "about.html#areas-of-interest",
     "href": "about.html#areas-of-interest",
     "title": "About",
     "section": "Areas of Interest",
-    "text": "Areas of Interest\nI am particularly interested in applying GIS and geospatial analysis to:\n\nwater resources and hydrologic systems\n\nenvironmental and infrastructure planning\n\nspatial data workflows and automation\n\napplied geospatial problem-solving"
+    "text": "Areas of Interest\nI am especially interested in work involving:\n\nwater resources and hydrologic systems\n\nenvironmental and infrastructure planning\n\ngeospatial workflow design and automation\n\napplied spatial problem-solving"
   },
   {
     "objectID": "about.html#looking-ahead",
     "href": "about.html#looking-ahead",
     "title": "About",
     "section": "Looking Ahead",
-    "text": "Looking Ahead\nI am seeking opportunities where I can apply GIS and geospatial analysis to real-world environmental and infrastructure challenges, with a focus on building workflows, analyzing spatial data, and supporting decision-making."
+    "text": "Looking Ahead\nI am seeking opportunities where I can apply GIS and geospatial analysis to practical environmental and infrastructure challenges, especially in roles that value strong workflows, spatial reasoning, and clear communication."
   },
   {
     "objectID": "projects.html",

@@ -2,46 +2,47 @@
 title: "About"
 ---
 
-I have a background in geoscience and history, with a focus on geospatial analysis, hydrology, and environmental data.
+My background combines geoscience, geography, and environmental analysis, with a focus on GIS, hydrology, and spatial data workflows.
 
-I earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. My academic background reflects a combination of scientific analysis and broader contextual understanding of environmental systems.
+I earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. That combination shaped how I approach environmental questions: with both technical rigor and an interest in the broader spatial and regional context behind them.
 
-My work centers on using GIS and data-driven methods to explore how environmental processes vary across space and time, particularly in relation to streamflow, flood behavior, and watershed dynamics.
+My work centers on using GIS and data-driven methods to examine how environmental systems vary across space and time, especially in relation to streamflow, flood behavior, and watershed dynamics.
 
 ---
 
-## My Approach
+## How I Approach GIS
 
-I approach GIS as more than mapping. I focus on building complete geospatial workflows that integrate data, analysis, and communication.
+I think of GIS as more than map production. For me, it is a way to organize environmental data, connect spatial and temporal patterns, and communicate results clearly.
 
-This includes:
+That usually means:
+
 - organizing and integrating environmental datasets  
-- developing reproducible spatial workflows  
+- building reproducible spatial workflows  
 - analyzing patterns across multiple spatial scales  
-- translating complex results into clear visual outputs  
+- translating technical outputs into clear visuals and applied interpretation  
 
 ---
 
-## Technical Experience
+## Technical Background
 
 - **GIS & Mapping:** ArcGIS Pro, ArcGIS Online, QGIS  
-- **Data Analysis:** R (sf, tidyverse), spatial and statistical analysis  
-- **Data Sources:** USGS streamflow data, climate datasets, watershed boundaries  
+- **Analysis & Programming:** R, spatial analysis, statistical analysis, environmental data workflows  
+- **Common Data Sources:** USGS streamflow records, climate datasets, watershed boundaries  
 - **Other Tools:** GitHub, Quarto  
 
 ---
 
 ## Areas of Interest
 
-I am particularly interested in applying GIS and geospatial analysis to:
+I am especially interested in work involving:
 
 - water resources and hydrologic systems  
 - environmental and infrastructure planning  
-- spatial data workflows and automation  
-- applied geospatial problem-solving  
+- geospatial workflow design and automation  
+- applied spatial problem-solving  
 
 ---
 
 ## Looking Ahead
 
-I am seeking opportunities where I can apply GIS and geospatial analysis to real-world environmental and infrastructure challenges, with a focus on building workflows, analyzing spatial data, and supporting decision-making.
+I am seeking opportunities where I can apply GIS and geospatial analysis to practical environmental and infrastructure challenges, especially in roles that value strong workflows, spatial reasoning, and clear communication.
