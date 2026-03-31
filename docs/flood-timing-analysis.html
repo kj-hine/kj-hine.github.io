@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Kiely Hine | GIS Portfolio</title>
+<title>Temporal Analysis of Flood Timing and Seasonality – Kiely Hine | GIS Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -119,15 +119,34 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#problem" id="toc-problem" class="nav-link" data-scroll-target="#problem">Problem</a></li>
+  <li><a href="#data-study-context" id="toc-data-study-context" class="nav-link" data-scroll-target="#data-study-context">Data &amp; Study Context</a></li>
+  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a>
+  <ul class="collapse">
+  <li><a href="#geospatial-data-pipeline" id="toc-geospatial-data-pipeline" class="nav-link" data-scroll-target="#geospatial-data-pipeline">Geospatial Data Pipeline</a></li>
+  <li><a href="#event-based-hydrologic-analysis" id="toc-event-based-hydrologic-analysis" class="nav-link" data-scroll-target="#event-based-hydrologic-analysis">Event-Based Hydrologic Analysis</a></li>
+  <li><a href="#temporal-seasonal-modeling" id="toc-temporal-seasonal-modeling" class="nav-link" data-scroll-target="#temporal-seasonal-modeling">Temporal &amp; Seasonal Modeling</a></li>
+  <li><a href="#trend-climate-analysis" id="toc-trend-climate-analysis" class="nav-link" data-scroll-target="#trend-climate-analysis">Trend &amp; Climate Analysis</a></li>
+  </ul></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact">Impact</a></li>
+  <li><a href="#tools-technologies" id="toc-tools-technologies" class="nav-link" data-scroll-target="#tools-technologies">Tools &amp; Technologies</a></li>
+  <li><a href="#key-takeaway" id="toc-key-takeaway" class="nav-link" data-scroll-target="#key-takeaway">Key Takeaway</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Temporal Analysis of Flood Timing and Seasonality</h1>
 </div>
 
 
@@ -144,9 +163,121 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This project develops a scalable geospatial and statistical workflow to evaluate long-term changes in flood timing and seasonal behavior across watersheds in the Mid-Atlantic region.</p>
+<p>The workflow integrates multi-decadal streamflow records with climate data to identify shifts in hydrologic patterns and evolving flood-generating processes.</p>
+<hr>
+</section>
+<section id="problem" class="level2">
+<h2 class="anchored" data-anchor-id="problem">Problem</h2>
+<p>Flood risk is often evaluated using magnitude-based metrics, but <strong>timing and seasonality are equally critical</strong> for infrastructure resilience, forecasting, and hazard mitigation.</p>
+<p>Detecting changes in flood timing is particularly challenging due to: - Complex hydrologic drivers (snowmelt vs.&nbsp;rainfall)<br>
+- Regional variability across watershed systems<br>
+- The cyclical nature of seasonal data</p>
+<p>This project addresses these challenges by combining geospatial data integration with time-aware statistical analysis.</p>
+<hr>
+</section>
+<section id="data-study-context" class="level2">
+<h2 class="anchored" data-anchor-id="data-study-context">Data &amp; Study Context</h2>
+<ul>
+<li>Long-term daily streamflow observations from a regional monitoring network<br>
+</li>
+<li>Multi-decadal analysis period to capture climate-driven variability<br>
+</li>
+<li>Integration of gridded climate datasets (temperature and precipitation)<br>
+</li>
+<li>Watersheds spanning multiple physiographic and hydrologic regions</li>
+</ul>
+<hr>
+</section>
+<section id="approach" class="level2">
+<h2 class="anchored" data-anchor-id="approach">Approach</h2>
+<section id="geospatial-data-pipeline" class="level3">
+<h3 class="anchored" data-anchor-id="geospatial-data-pipeline">Geospatial Data Pipeline</h3>
+<ul>
+<li>Designed a reproducible workflow to ingest, clean, and harmonize large environmental datasets<br>
+</li>
+<li>Integrated spatial boundaries (watersheds) with time-series observations<br>
+</li>
+<li>Structured data for both spatial and temporal analysis</li>
+</ul>
+<hr>
+</section>
+<section id="event-based-hydrologic-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="event-based-hydrologic-analysis">Event-Based Hydrologic Analysis</h3>
+<ul>
+<li>Isolated high-flow events using a statistically robust thresholding framework<br>
+</li>
+<li>Ensured temporal independence of events across sites<br>
+</li>
+<li>Standardized event extraction for regional comparison</li>
+</ul>
+<hr>
+</section>
+<section id="temporal-seasonal-modeling" class="level3">
+<h3 class="anchored" data-anchor-id="temporal-seasonal-modeling">Temporal &amp; Seasonal Modeling</h3>
+<ul>
+<li>Represented flood timing using <strong>circular (cyclical) statistical methods</strong> to properly account for seasonal continuity<br>
+</li>
+<li>Quantified seasonal concentration and variability of flood occurrence<br>
+</li>
+<li>Differentiated between unimodal and multimodal flood regimes</li>
+</ul>
+<hr>
+</section>
+<section id="trend-climate-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="trend-climate-analysis">Trend &amp; Climate Analysis</h3>
+<ul>
+<li>Applied non-parametric trend detection methods to evaluate long-term changes in timing and seasonality<br>
+</li>
+<li>Explored relationships between hydrologic patterns and climate drivers (temperature and precipitation)<br>
+</li>
+<li>Compared temporal shifts across multiple time periods to identify emerging patterns</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<ul>
+<li>Evidence of shifts in flood timing toward later and more variable seasonal occurrence<br>
+</li>
+<li>Increased prevalence of <strong>multimodal flood regimes</strong>, indicating more complex hydrologic behavior<br>
+</li>
+<li>Signals of changing flood-generating mechanisms, with greater influence from warm-season precipitation</li>
+</ul>
+<hr>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact">Impact</h2>
+<p>This project demonstrates how integrated GIS and statistical workflows can:</p>
+<ul>
+<li>Reveal subtle hydrologic changes not captured by magnitude-based analysis<br>
+</li>
+<li>Improve understanding of climate-driven shifts in water systems<br>
+</li>
+<li>Support infrastructure planning and risk assessment under changing conditions</li>
+</ul>
+<hr>
+</section>
+<section id="tools-technologies" class="level2">
+<h2 class="anchored" data-anchor-id="tools-technologies">Tools &amp; Technologies</h2>
+<ul>
+<li><strong>GIS:</strong> ArcGIS Pro (spatial data integration, watershed analysis)<br>
+</li>
+<li><strong>Programming:</strong> R (data pipelines, spatial analysis, statistical modeling)<br>
+</li>
+<li><strong>Techniques:</strong> spatial-temporal analysis, event-based hydrology, circular statistics, trend analysis</li>
+</ul>
+<hr>
+</section>
+<section id="key-takeaway" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaway">Key Takeaway</h2>
+<p>By combining geospatial data workflows with advanced temporal analysis, this project provides a framework for understanding how flood behavior is evolving across space and time — an essential step toward more resilient water resource management.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

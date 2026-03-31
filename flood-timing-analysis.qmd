@@ -1,0 +1,99 @@
+---
+title: "Temporal Analysis of Flood Timing and Seasonality"
+format: html
+editor: visual
+---
+
+## Overview
+
+This project develops a scalable geospatial and statistical workflow to evaluate long-term changes in flood timing and seasonal behavior across watersheds in the Mid-Atlantic region.
+
+The workflow integrates multi-decadal streamflow records with climate data to identify shifts in hydrologic patterns and evolving flood-generating processes.
+
+---
+
+## Problem
+
+Flood risk is often evaluated using magnitude-based metrics, but **timing and seasonality are equally critical** for infrastructure resilience, forecasting, and hazard mitigation.
+
+Detecting changes in flood timing is particularly challenging due to:
+- Complex hydrologic drivers (snowmelt vs. rainfall)  
+- Regional variability across watershed systems  
+- The cyclical nature of seasonal data  
+
+This project addresses these challenges by combining geospatial data integration with time-aware statistical analysis.
+
+---
+
+## Data & Study Context
+
+- Long-term daily streamflow observations from a regional monitoring network  
+- Multi-decadal analysis period to capture climate-driven variability  
+- Integration of gridded climate datasets (temperature and precipitation)  
+- Watersheds spanning multiple physiographic and hydrologic regions  
+
+---
+
+## Approach
+
+### Geospatial Data Pipeline
+
+- Designed a reproducible workflow to ingest, clean, and harmonize large environmental datasets  
+- Integrated spatial boundaries (watersheds) with time-series observations  
+- Structured data for both spatial and temporal analysis  
+
+---
+
+### Event-Based Hydrologic Analysis
+
+- Isolated high-flow events using a statistically robust thresholding framework  
+- Ensured temporal independence of events across sites  
+- Standardized event extraction for regional comparison  
+
+---
+
+### Temporal & Seasonal Modeling
+
+- Represented flood timing using **circular (cyclical) statistical methods** to properly account for seasonal continuity  
+- Quantified seasonal concentration and variability of flood occurrence  
+- Differentiated between unimodal and multimodal flood regimes  
+
+---
+
+### Trend & Climate Analysis
+
+- Applied non-parametric trend detection methods to evaluate long-term changes in timing and seasonality  
+- Explored relationships between hydrologic patterns and climate drivers (temperature and precipitation)  
+- Compared temporal shifts across multiple time periods to identify emerging patterns  
+
+---
+
+## Key Findings
+
+- Evidence of shifts in flood timing toward later and more variable seasonal occurrence  
+- Increased prevalence of **multimodal flood regimes**, indicating more complex hydrologic behavior  
+- Signals of changing flood-generating mechanisms, with greater influence from warm-season precipitation  
+
+---
+
+## Impact
+
+This project demonstrates how integrated GIS and statistical workflows can:
+
+- Reveal subtle hydrologic changes not captured by magnitude-based analysis  
+- Improve understanding of climate-driven shifts in water systems  
+- Support infrastructure planning and risk assessment under changing conditions  
+
+---
+
+## Tools & Technologies
+
+- **GIS:** ArcGIS Pro (spatial data integration, watershed analysis)  
+- **Programming:** R (data pipelines, spatial analysis, statistical modeling)  
+- **Techniques:** spatial-temporal analysis, event-based hydrology, circular statistics, trend analysis  
+
+---
+
+## Key Takeaway
+
+By combining geospatial data workflows with advanced temporal analysis, this project provides a framework for understanding how flood behavior is evolving across space and time — an essential step toward more resilient water resource management.

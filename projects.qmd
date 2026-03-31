@@ -1,26 +1,43 @@
 ---
-title: "projects"
+title: "Projects"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Temporal Analysis of Flood Timing and Seasonality
+*Hydrologic Analysis • GIS Workflow • Climate Data Integration*
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+### Overview
 
-## Running Code
+Developed a scalable geospatial and statistical workflow to evaluate long-term changes in flood timing and seasonal behavior across watersheds in the Mid-Atlantic region.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+---
 
-```{r}
-1 + 1
-```
+### Problem
 
-You can add options to executable code like this
+Flood risk is often evaluated using magnitude-based metrics, but **timing and seasonality are equally critical** for infrastructure resilience, forecasting, and hazard mitigation.
 
-```{r}
-#| echo: false
-2 * 2
-```
+---
 
-The `echo: false` option disables the printing of code (only output is displayed).
+### Approach
+
+- Built a reproducible geospatial data pipeline integrating streamflow and climate datasets  
+- Applied event-based hydrologic analysis to isolate high-flow events  
+- Used circular statistical methods to analyze seasonal timing patterns  
+- Conducted trend analysis to evaluate long-term hydrologic changes  
+
+---
+
+### Key Findings
+
+- Shifts toward later and more variable flood timing  
+- Increased prevalence of multimodal flood regimes  
+- Greater influence of warm-season precipitation  
+
+---
+
+### Tools & Technologies
+
+ArcGIS Pro • R • Spatial-temporal analysis • Statistical modeling • Environmental data pipelines  
+
+---
