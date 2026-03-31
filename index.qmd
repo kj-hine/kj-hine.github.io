@@ -4,7 +4,13 @@ title: "Kiely Hine"
 
 *Geospatial Analysis · Hydrology · Environmental Data Workflows*
 
-I am a geospatial analyst with a background in geoscience, focused on applying GIS and data-driven methods to understand environmental systems. My work emphasizes building reproducible geospatial workflows, integrating environmental datasets, and translating complex patterns into clear spatial insight.
+I am a geospatial analyst with a background in geoscience and geography, focused on using GIS and data-driven methods to better understand environmental systems. My work brings together spatial analysis, hydrologic thinking, and reproducible workflows to turn complex environmental data into clear, useful insight.
+
+---
+
+## What This Site Highlights
+
+This portfolio brings together selected work in GIS, hydrology, and environmental analysis, with an emphasis on watershed-scale questions, spatial workflows, and communication through maps and applied geospatial products.
 
 ---
 
@@ -12,22 +18,22 @@ I am a geospatial analyst with a background in geoscience, focused on applying G
 
 ### Temporal Analysis of Flood Timing and Seasonality
 
-A geospatial and statistical workflow developed to evaluate long-term changes in flood timing and seasonal behavior across Mid-Atlantic watersheds.
+A geospatial and statistical workflow developed to examine how flood timing and seasonal behavior have shifted across Mid-Atlantic watersheds over multiple decades.
 
 [Explore the project](projects.qmd)
 
 ---
 
-## Core Skills
+## Core Strengths
 
-- Geospatial data integration and analysis  
-- Environmental data pipelines  
-- Spatial-temporal analysis  
-- Hydrologic and watershed-based analysis  
-- Map design and technical communication  
+- geospatial data integration and analysis  
+- environmental data pipelines  
+- spatial-temporal analysis  
+- hydrologic and watershed-based analysis  
+- map design and technical communication  
 
 ---
 
-## Tools & Technologies
+## Tools I Work With
 
 ArcGIS Pro · R · Spatial Analysis · Environmental Data · GitHub · Quarto

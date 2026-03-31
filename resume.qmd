@@ -2,10 +2,12 @@
 title: "Resume"
 ---
 
-You can view my resume below or download a copy here:
+My resume is available below for quick viewing, and a downloadable PDF is linked here:
 
 [Download Resume](resume.pdf){target="_blank"}
 
+---
+
 ## Preview
 
-<iframe src="resume.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 6px;"></iframe>
+<iframe src="resume.pdf" width="100%" height="950px" style="border: 1px solid #ddd; border-radius: 6px;"></iframe>

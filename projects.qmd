@@ -4,41 +4,41 @@ title: "Projects"
 
 ## Temporal Analysis of Flood Timing and Seasonality
 
-*Hydrologic Analysis · GIS Workflow · Climate Data Integration*
+*Hydrology · GIS Workflow Design · Climate Data Integration*
 
-This project developed a geospatial and statistical workflow to examine how flood timing and seasonal behavior have shifted across Mid-Atlantic watersheds over multiple decades. The work combined long-term streamflow records, climate data, and spatial analysis to identify evolving hydrologic patterns relevant to infrastructure planning and environmental decision-making.
+This project examined how flood timing and seasonal behavior have shifted across Mid-Atlantic watersheds over multiple decades. It combined long-term streamflow records, climate data, and spatial analysis into a reproducible workflow designed to identify emerging hydrologic patterns relevant to planning, forecasting, and watershed understanding.
 
 ::: {.callout-note appearance="simple"}
-### Project focus
-Designed a reproducible workflow for integrating environmental time-series data, evaluating seasonal flood behavior, and communicating spatial patterns through GIS-based outputs.
+### Why this project stands out
+This work reflects the kind of geospatial problem-solving I am most interested in: integrating environmental datasets, structuring a clear analytical workflow, and communicating regional spatial patterns in a way that supports real-world interpretation.
 :::
 
-## Overview
+## Study Context
 
 ![Study area showing stream gage locations across major Mid-Atlantic river basins.](images/study_area.png){fig-align="center" width="72%"}
 
-The analysis focused on a regional network of watersheds spanning major Mid-Atlantic river basins. This broader study extent allowed patterns in flood timing to be compared across diverse physiographic and hydrologic settings.
+The analysis focused on a regional network of watersheds spanning major Mid-Atlantic river basins. This broader study extent made it possible to compare flood timing behavior across diverse physiographic and hydrologic settings.
 
-## Approach
+## Workflow Design
 
 ![Workflow illustrating the data integration and analysis pipeline.](images/ms_workflow.png){fig-align="center" width="88%"}
 
-The project was structured as a multi-stage workflow that linked streamflow records, climate variables, and watershed context into a unified analytical pipeline. The workflow emphasized reproducibility, consistency across sites, and spatial comparability.
+The project was built as a multi-stage workflow linking streamflow records, climate variables, and watershed context into a unified analytical pipeline. The emphasis was on reproducibility, consistency across monitoring sites, and spatial comparability.
 
 Key components included:
 
 - geospatial data integration for streamflow and climate inputs  
 - event-based hydrologic analysis for identifying high-flow periods  
-- circular and seasonal analysis for representing cyclical timing behavior  
+- cyclical and seasonal analysis for timing behavior  
 - trend evaluation to assess long-term hydrologic change  
 
-## Key Findings
+## Key Patterns
 
 ![Spatial variation in flood timing patterns across monitoring sites.](images/ms_results_v2.png){fig-align="center" width="74%"}
 
-The results indicated a shift toward later and more variable flood timing across parts of the region, along with increased evidence of multimodal seasonal behavior. Patterns also suggested a stronger influence from warm-season precipitation in some watershed systems, pointing to changing flood-generating processes over time.
+The results suggested a shift toward later and more variable flood timing across parts of the region, along with increased evidence of multimodal seasonal behavior. Patterns also pointed to a stronger warm-season precipitation influence in some watersheds, suggesting evolving flood-generating processes over time.
 
-## Tools and Methods
+## Methods and Tools
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -60,6 +60,6 @@ Climate-hydrology interpretation
 :::
 :::
 
-## Why this project matters
+## Why It Matters
 
-This work demonstrates how GIS can support more than visualization alone. By integrating spatial data management, temporal analysis, and environmental interpretation, the project shows how geospatial workflows can help reveal subtle changes in watershed behavior that matter for planning, risk assessment, and water resource management.
+This work demonstrates how GIS can support more than visualization alone. By linking spatial data management, temporal analysis, and environmental interpretation, the workflow reveals subtle changes in watershed behavior that matter for planning, risk assessment, and water resource management.
