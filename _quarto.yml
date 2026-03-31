@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kiely Hine | GIS Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: yeti
+    toc: true
+
+
