@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-# About Me
-
 I have a background in geoscience and history, with a focus on geospatial analysis, hydrology, and environmental data.
 
 I earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. My academic background reflects a combination of scientific analysis and broader contextual understanding of environmental systems.

@@ -1,8 +1,6 @@
 ---
-title: "Home"
+title: "Kiely Hine"
 ---
-
-# Kiely Hine
 
 *Geospatial Analysis · Hydrology · Environmental Data Workflows*
 

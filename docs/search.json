@@ -23,65 +23,65 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Kiely Hine",
     "section": "",
-    "text": "Geospatial Analysis · Hydrology · Environmental Data Workflows\nI am a geospatial analyst with a background in geoscience, focused on applying GIS and data-driven methods to understand environmental systems. My work emphasizes building reproducible geospatial workflows, integrating environmental datasets, and translating complex patterns into clear spatial insight.\n\n\n\n\n\nA geospatial and statistical workflow developed to evaluate long-term changes in flood timing and seasonal behavior across Mid-Atlantic watersheds.\nExplore the project\n\n\n\n\n\n\nGeospatial data integration and analysis\n\nEnvironmental data pipelines\n\nSpatial-temporal analysis\n\nHydrologic and watershed-based analysis\n\nMap design and technical communication\n\n\n\n\n\nArcGIS Pro · R · Spatial Analysis · Environmental Data · GitHub · Quarto"
+    "text": "Geospatial Analysis · Hydrology · Environmental Data Workflows\nI am a geospatial analyst with a background in geoscience, focused on applying GIS and data-driven methods to understand environmental systems. My work emphasizes building reproducible geospatial workflows, integrating environmental datasets, and translating complex patterns into clear spatial insight."
   },
   {
     "objectID": "index.html#featured-project",
     "href": "index.html#featured-project",
-    "title": "Home",
-    "section": "",
-    "text": "A geospatial and statistical workflow developed to evaluate long-term changes in flood timing and seasonal behavior across Mid-Atlantic watersheds.\nExplore the project"
+    "title": "Kiely Hine",
+    "section": "Featured Project",
+    "text": "Featured Project\n\nTemporal Analysis of Flood Timing and Seasonality\nA geospatial and statistical workflow developed to evaluate long-term changes in flood timing and seasonal behavior across Mid-Atlantic watersheds.\nExplore the project"
   },
   {
     "objectID": "index.html#core-skills",
     "href": "index.html#core-skills",
-    "title": "Home",
-    "section": "",
-    "text": "Geospatial data integration and analysis\n\nEnvironmental data pipelines\n\nSpatial-temporal analysis\n\nHydrologic and watershed-based analysis\n\nMap design and technical communication"
+    "title": "Kiely Hine",
+    "section": "Core Skills",
+    "text": "Core Skills\n\nGeospatial data integration and analysis\n\nEnvironmental data pipelines\n\nSpatial-temporal analysis\n\nHydrologic and watershed-based analysis\n\nMap design and technical communication"
   },
   {
     "objectID": "index.html#tools-technologies",
     "href": "index.html#tools-technologies",
-    "title": "Home",
-    "section": "",
-    "text": "ArcGIS Pro · R · Spatial Analysis · Environmental Data · GitHub · Quarto"
+    "title": "Kiely Hine",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\nArcGIS Pro · R · Spatial Analysis · Environmental Data · GitHub · Quarto"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I have a background in geoscience and history, with a focus on geospatial analysis, hydrology, and environmental data.\nI earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. My academic background reflects a combination of scientific analysis and broader contextual understanding of environmental systems.\nMy work centers on using GIS and data-driven methods to explore how environmental processes vary across space and time, particularly in relation to streamflow, flood behavior, and watershed dynamics.\n\n\n\nI approach GIS as more than mapping. I focus on building complete geospatial workflows that integrate data, analysis, and communication.\nThis includes: - organizing and integrating environmental datasets\n- developing reproducible spatial workflows\n- analyzing patterns across multiple spatial scales\n- translating complex results into clear visual outputs\n\n\n\n\n\nGIS & Mapping: ArcGIS Pro, ArcGIS Online, QGIS\n\nData Analysis: R (sf, tidyverse), spatial and statistical analysis\n\nData Sources: USGS streamflow data, climate datasets, watershed boundaries\n\nOther Tools: GitHub, Quarto\n\n\n\n\n\nI am particularly interested in applying GIS and geospatial analysis to:\n\nwater resources and hydrologic systems\n\nenvironmental and infrastructure planning\n\nspatial data workflows and automation\n\napplied geospatial problem-solving\n\n\n\n\n\nI am seeking opportunities where I can apply GIS and geospatial analysis to real-world environmental and infrastructure challenges, with a focus on building workflows, analyzing spatial data, and supporting decision-making."
+    "text": "I have a background in geoscience and history, with a focus on geospatial analysis, hydrology, and environmental data.\nI earned a B.A. in Geoscience and a B.A. in History from the University of Connecticut, followed by an M.S. in Geography from Penn State University. My academic background reflects a combination of scientific analysis and broader contextual understanding of environmental systems.\nMy work centers on using GIS and data-driven methods to explore how environmental processes vary across space and time, particularly in relation to streamflow, flood behavior, and watershed dynamics."
   },
   {
     "objectID": "about.html#my-approach",
     "href": "about.html#my-approach",
     "title": "About",
-    "section": "",
-    "text": "I approach GIS as more than mapping. I focus on building complete geospatial workflows that integrate data, analysis, and communication.\nThis includes: - organizing and integrating environmental datasets\n- developing reproducible spatial workflows\n- analyzing patterns across multiple spatial scales\n- translating complex results into clear visual outputs"
+    "section": "My Approach",
+    "text": "My Approach\nI approach GIS as more than mapping. I focus on building complete geospatial workflows that integrate data, analysis, and communication.\nThis includes: - organizing and integrating environmental datasets\n- developing reproducible spatial workflows\n- analyzing patterns across multiple spatial scales\n- translating complex results into clear visual outputs"
   },
   {
     "objectID": "about.html#technical-experience",
     "href": "about.html#technical-experience",
     "title": "About",
-    "section": "",
-    "text": "GIS & Mapping: ArcGIS Pro, ArcGIS Online, QGIS\n\nData Analysis: R (sf, tidyverse), spatial and statistical analysis\n\nData Sources: USGS streamflow data, climate datasets, watershed boundaries\n\nOther Tools: GitHub, Quarto"
+    "section": "Technical Experience",
+    "text": "Technical Experience\n\nGIS & Mapping: ArcGIS Pro, ArcGIS Online, QGIS\n\nData Analysis: R (sf, tidyverse), spatial and statistical analysis\n\nData Sources: USGS streamflow data, climate datasets, watershed boundaries\n\nOther Tools: GitHub, Quarto"
   },
   {
     "objectID": "about.html#areas-of-interest",
     "href": "about.html#areas-of-interest",
     "title": "About",
-    "section": "",
-    "text": "I am particularly interested in applying GIS and geospatial analysis to:\n\nwater resources and hydrologic systems\n\nenvironmental and infrastructure planning\n\nspatial data workflows and automation\n\napplied geospatial problem-solving"
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\nI am particularly interested in applying GIS and geospatial analysis to:\n\nwater resources and hydrologic systems\n\nenvironmental and infrastructure planning\n\nspatial data workflows and automation\n\napplied geospatial problem-solving"
   },
   {
     "objectID": "about.html#looking-ahead",
     "href": "about.html#looking-ahead",
     "title": "About",
-    "section": "",
-    "text": "I am seeking opportunities where I can apply GIS and geospatial analysis to real-world environmental and infrastructure challenges, with a focus on building workflows, analyzing spatial data, and supporting decision-making."
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nI am seeking opportunities where I can apply GIS and geospatial analysis to real-world environmental and infrastructure challenges, with a focus on building workflows, analyzing spatial data, and supporting decision-making."
   },
   {
     "objectID": "projects.html",
