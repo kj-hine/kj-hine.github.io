@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Featured Project
-
 ## Temporal Analysis of Flood Timing and Seasonality
 
 *Hydrologic Analysis · GIS Workflow · Climate Data Integration*
