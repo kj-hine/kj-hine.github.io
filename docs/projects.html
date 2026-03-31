@@ -124,13 +124,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#temporal-analysis-of-flood-timing-and-seasonality" id="toc-temporal-analysis-of-flood-timing-and-seasonality" class="nav-link active" data-scroll-target="#temporal-analysis-of-flood-timing-and-seasonality">Temporal Analysis of Flood Timing and Seasonality</a>
+  <li><a href="#featured-project" id="toc-featured-project" class="nav-link active" data-scroll-target="#featured-project">Featured Project</a>
   <ul class="collapse">
+  <li><a href="#temporal-analysis-of-flood-timing-and-seasonality" id="toc-temporal-analysis-of-flood-timing-and-seasonality" class="nav-link" data-scroll-target="#temporal-analysis-of-flood-timing-and-seasonality">Temporal Analysis of Flood Timing and Seasonality</a></li>
   <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#problem" id="toc-problem" class="nav-link" data-scroll-target="#problem">Problem</a></li>
   <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
   <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
-  <li><a href="#tools-technologies" id="toc-tools-technologies" class="nav-link" data-scroll-target="#tools-technologies">Tools &amp; Technologies</a></li>
+  <li><a href="#tools-and-methods" id="toc-tools-and-methods" class="nav-link" data-scroll-target="#tools-and-methods">Tools and Methods</a></li>
+  <li><a href="#why-this-project-matters" id="toc-why-this-project-matters" class="nav-link" data-scroll-target="#why-this-project-matters">Why this project matters</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -157,47 +158,87 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="featured-project" class="level1">
+<h1>Featured Project</h1>
 <section id="temporal-analysis-of-flood-timing-and-seasonality" class="level2">
 <h2 class="anchored" data-anchor-id="temporal-analysis-of-flood-timing-and-seasonality">Temporal Analysis of Flood Timing and Seasonality</h2>
-<p><em>Hydrologic Analysis • GIS Workflow • Climate Data Integration</em></p>
-<section id="overview" class="level3">
-<h3 class="anchored" data-anchor-id="overview">Overview</h3>
-<p>Developed a scalable geospatial and statistical workflow to evaluate long-term changes in flood timing and seasonal behavior across watersheds in the Mid-Atlantic region.</p>
-<hr>
+<p><em>Hydrologic Analysis · GIS Workflow · Climate Data Integration</em></p>
+<p>This project developed a geospatial and statistical workflow to examine how flood timing and seasonal behavior have shifted across Mid-Atlantic watersheds over multiple decades. The work combined long-term streamflow records, climate data, and spatial analysis to identify evolving hydrologic patterns relevant to infrastructure planning and environmental decision-making.</p>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Project focus
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Designed a reproducible workflow for integrating environmental time-series data, evaluating seasonal flood behavior, and communicating spatial patterns through GIS-based outputs.</p>
+</div>
+</div>
 </section>
-<section id="problem" class="level3">
-<h3 class="anchored" data-anchor-id="problem">Problem</h3>
-<p>Flood risk is often evaluated using magnitude-based metrics, but <strong>timing and seasonality are equally critical</strong> for infrastructure resilience, forecasting, and hazard mitigation.</p>
-<hr>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/study_area.png" class="img-fluid figure-img" style="width:72.0%"></p>
+<figcaption>Study area showing stream gage locations across major Mid-Atlantic river basins.</figcaption>
+</figure>
+</div>
+<p>The analysis focused on a regional network of watersheds spanning major Mid-Atlantic river basins. This broader study extent allowed patterns in flood timing to be compared across diverse physiographic and hydrologic settings.</p>
 </section>
-<section id="approach" class="level3">
-<h3 class="anchored" data-anchor-id="approach">Approach</h3>
+<section id="approach" class="level2">
+<h2 class="anchored" data-anchor-id="approach">Approach</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ms_workflow.png" class="img-fluid figure-img" style="width:88.0%"></p>
+<figcaption>Workflow illustrating the data integration and analysis pipeline.</figcaption>
+</figure>
+</div>
+<p>The project was structured as a multi-stage workflow that linked streamflow records, climate variables, and watershed context into a unified analytical pipeline. The workflow emphasized reproducibility, consistency across sites, and spatial comparability.</p>
+<p>Key components included:</p>
 <ul>
-<li>Built a reproducible geospatial data pipeline integrating streamflow and climate datasets<br>
+<li>geospatial data integration for streamflow and climate inputs<br>
 </li>
-<li>Applied event-based hydrologic analysis to isolate high-flow events<br>
+<li>event-based hydrologic analysis for identifying high-flow periods<br>
 </li>
-<li>Used circular statistical methods to analyze seasonal timing patterns<br>
+<li>circular and seasonal analysis for representing cyclical timing behavior<br>
 </li>
-<li>Conducted trend analysis to evaluate long-term hydrologic changes</li>
+<li>trend evaluation to assess long-term hydrologic change</li>
 </ul>
-<hr>
 </section>
-<section id="key-findings" class="level3">
-<h3 class="anchored" data-anchor-id="key-findings">Key Findings</h3>
-<ul>
-<li>Shifts toward later and more variable flood timing<br>
-</li>
-<li>Increased prevalence of multimodal flood regimes<br>
-</li>
-<li>Greater influence of warm-season precipitation</li>
-</ul>
-<hr>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ms_results_v2.png" class="img-fluid figure-img" style="width:74.0%"></p>
+<figcaption>Spatial variation in flood timing patterns across monitoring sites.</figcaption>
+</figure>
+</div>
+<p>The results indicated a shift toward later and more variable flood timing across parts of the region, along with increased evidence of multimodal seasonal behavior. Patterns also suggested a stronger influence from warm-season precipitation in some watershed systems, pointing to changing flood-generating processes over time.</p>
 </section>
-<section id="tools-technologies" class="level3">
-<h3 class="anchored" data-anchor-id="tools-technologies">Tools &amp; Technologies</h3>
-<p>ArcGIS Pro • R • Spatial-temporal analysis • Statistical modeling • Environmental data pipelines</p>
-<hr>
+<section id="tools-and-methods" class="level2">
+<h2 class="anchored" data-anchor-id="tools-and-methods">Tools and Methods</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>GIS and data tools</strong></p>
+<p>ArcGIS Pro<br>
+R<br>
+Environmental data pipelines<br>
+Spatial data integration</p>
+</div><div class="column" style="width:50%;">
+<p><strong>Analytical focus</strong></p>
+<p>Spatial-temporal analysis<br>
+Hydrologic event analysis<br>
+Statistical modeling<br>
+Climate-hydrology interpretation</p>
+</div>
+</div>
+</section>
+<section id="why-this-project-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-project-matters">Why this project matters</h2>
+<p>This work demonstrates how GIS can support more than visualization alone. By integrating spatial data management, temporal analysis, and environmental interpretation, the project shows how geospatial workflows can help reveal subtle changes in watershed behavior that matter for planning, risk assessment, and water resource management.</p>
 
 
 </section>

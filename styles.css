@@ -1,1 +1,184 @@
-/* css styles */
+/* =========================================================
+   Kiely Hine | GIS Portfolio
+   Clean, simple styling for Quarto website
+   ========================================================= */
+
+/* Base page */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: #2b2b2b;
+}
+
+/* Main content width feel */
+main.content {
+  padding-top: 0.5rem;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  color: #222;
+}
+
+h1 {
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Paragraphs and lists */
+p {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Quarto title block */
+.quarto-title-block {
+  margin-bottom: 1.2rem;
+}
+
+.quarto-title-block .title {
+  font-weight: 700;
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+/* Horizontal rules */
+hr {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 0;
+  border-top: 1px solid #d9d9d9;
+}
+
+/* Images */
+img {
+  border-radius: 4px;
+}
+
+/* Figure blocks */
+.figure {
+  margin-top: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.figure-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 0.45rem;
+  line-height: 1.45;
+}
+
+/* Callouts */
+.callout {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+}
+
+.callout.callout-note {
+  border-left: 4px solid #1b84a6;
+  background-color: #f7fbfc;
+}
+
+/* Columns section */
+.columns {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.column p:last-child,
+.column ul:last-child {
+  margin-bottom: 0;
+}
+
+/* Sidebar table of contents */
+#TOC,
+.sidebar nav[role="doc-toc"] {
+  font-size: 0.95rem;
+}
+
+#TOC .nav-link,
+.sidebar nav[role="doc-toc"] .nav-link {
+  line-height: 1.35;
+  margin-bottom: 0.2rem;
+}
+
+/* Emphasis text */
+em {
+  color: #555;
+}
+
+/* Strong text */
+strong {
+  font-weight: 700;
+}
+
+/* Code blocks if you ever add them */
+code {
+  font-size: 0.95em;
+}
+
+/* Resume/project spacing helpers */
+.project-tagline {
+  color: #555;
+  font-style: italic;
+  margin-top: -0.3rem;
+  margin-bottom: 1.2rem;
+}
+
+.section-intro {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer breathing room */
+.page-columns,
+.page-full {
+  margin-bottom: 2rem;
+}
