@@ -19,5 +19,6 @@ format:
   html:
     theme: yeti
     toc: true
+    css: styles.css
 
 
